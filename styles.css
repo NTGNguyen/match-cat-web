@@ -1,0 +1,128 @@
+/* The tag Styles*/
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Montserrat";
+    color: #FAE7C9;
+}
+
+p,
+h3 {
+    font-family: "Ubuntu";
+}
+
+/* Title Section(without navbar) */
+#title-section {
+    background-color: #B0926A;
+    margin-top: 0;
+    padding: 50px 10%;
+}
+
+.title-text {
+    margin: 50px auto;
+}
+
+.btn-download {
+    margin: 0 3%;
+}
+
+
+/* navigation bar */
+
+.navbar-section-full {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: "Ubuntu";
+    font-size: 20px;
+}
+
+.navbar-section {
+    background-color: #B0926A;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0 17% 0 10%;
+}
+
+.nav-text {
+    color: #FAE7C9;
+}
+
+#nav-text {
+    color: #FAE7C9;
+}
+
+/*cat list*/
+.cat-card {
+    margin: 30px auto;
+}
+
+#cat-list {
+    padding-top: 50px;
+}
+
+.cat-title {
+    color: #706233;
+}
+
+/*Some comments*/
+#some-comments {
+    background-color: #B0926A;
+    text-align: center;
+    padding: 5% 10%;
+}
+
+.costumer-img {
+    text-align: center;
+    width: 15%;
+    border-radius: 100%;
+}
+
+.customer-comment {
+    color: #FAE7C9;
+}
+
+.comment-header {
+    color: #706233;
+}
+
+/* Some features */
+#features {
+    margin: 5% 5%;
+}
+
+.feature-items {
+    margin: 5% 5%;
+}
+
+.feature {
+    color: #706233;
+}
+
+.feature:hover {
+    color: #B0926A;
+}
+
+/* Download*/
+#Download {
+    background-color: #B0926A;
+    padding: 5% 5%;
+}
+
+.download-button {
+    margin: 0 0.5%;
+}
+
+/*contact me and copyright*/
+
+#footer {
+    padding: 3% 3%;
+}
+
+.footer-icon {
+    margin: 0 0.5%;
+}
+
+@media (max-width:1028) {}
