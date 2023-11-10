@@ -1,3 +1,2 @@
 # match-cat-web
-[[https://img.shields.io/badge/Author:-NTG_Nguyen-red)]
-
+![Static Badge](https://img.shields.io/badge/Author%3ANTG_Nguyen-red)
